@@ -12,16 +12,16 @@
 6. [License: MIT](https://opensource.org/licenses/MIT)
 
 ## Description
-#### a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+#### an e-commerce site to interact with a MySQL database.
 ## Installation-Instructions
-#### install node.js, run npm i for install node dependencies (inquirer, mysql2)
+#### install node.js, run npm i for install node dependencies (sequelize, dotenv, express, mysql2)
 ## Usage-Information
-#### run node server.js , select categorie and communicate with database
+#### run node server.js , make CRUD operations in insomnia
 
 ## Contribution-Guidelines
 #### n/a
 
-#### Video App Link https://drive.google.com/file/d/1s4EZgjMjAjkPx2_-j1Xtn7O-qlMRLiq8/view?usp=sharing
+#### Video App Link https://drive.google.com/file/d/1xpimKq4b3xBwA-e0p90tM62Ef-JNJJ1l/view
 
 ## Questions
 #### Github Profile https://github.com/AutomataXRWrksAutomataXRWrks
